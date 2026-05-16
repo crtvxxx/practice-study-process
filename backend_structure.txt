@@ -1,7 +1,11 @@
 backend/
-|-main.py
-|-auth.py
-|-database.py
-|-models.py
-|-schemas.py
-|-requirements.txt
+|- public/
+|  |- index.html
+|  |- style.css
+|  +- script.js
+|- main.py
+|- auth.py
+|- database.py
+|- models.py
+|- schemas.py
++- requirements.txt

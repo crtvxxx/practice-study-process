@@ -1,0 +1,4 @@
+__pycache__
+backend/public/auth
+backend/public/reg
+backend/public/main
